@@ -1,0 +1,132 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: InnoPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-10 09:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-6.1\n"
+"X-Domain: innopress"
+
+#. %1$s %2$s: day
+#. %1$s %2$s: month
+#. %1$s %2$s: year
+#. %1$s %2$s: author
+#. %1$s %2$s: category
+#. %1$s %2$s: tag
+#. %1$s %2$s: WooCommerce
+#. %1$s %2$s: search
+#: functions.php:255 functions.php:258 functions.php:261 functions.php:264
+#: functions.php:267 functions.php:270 functions.php:273 functions.php:290
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#. %1$s: 404
+#: functions.php:283
+msgid "404"
+msgstr ""
+
+#: functions.php:264
+msgid "All posts by"
+msgstr ""
+
+#: functions.php:199
+msgid "Archive by category"
+msgstr ""
+
+#: functions.php:255 functions.php:258 functions.php:261
+msgid "Archives"
+msgstr ""
+
+#: functions.php:267
+msgid "Category"
+msgstr ""
+
+#: footer.php:14 inc/customizer/innopress-customizer-options.php:17
+msgid ""
+"Copyright &copy; 2022 | Powered by <a href=\"//wordpress.org/\">WordPress</a>"
+" <span class=\"sep\"> | </span> InnoPress theme by <a target=\"_blank\" "
+"href=\"//themearile.com/\">ThemeArile</a>"
+msgstr ""
+
+#: functions.php:236
+msgid "Error 404"
+msgstr ""
+
+#: inc/customizer/innopress-customizer-options.php:22
+msgid "Footer Copyright"
+msgstr ""
+
+#: functions.php:194 functions.php:197
+msgid "Home"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themearile.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://themearile.com/innopress-theme/"
+msgstr ""
+
+#. Name of the theme
+msgid "InnoPress"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"InnoPress is a powerful, professional, and feature-rich multipurpose "
+"business WordPress theme. It comes with a pixel-perfect design and an "
+"outstanding customizer setting that you can easily customize. As well is "
+"sophisticated plus it has some exotic features like clean code, advanced "
+"typography, sticky menu, logo upload, header image, Bootstrap 4 framework, "
+"built with SEO in mind, and theme info area besides being Mobile-ready, "
+"translation ready (WPML, Polylang) and it's built to be beautiful on all "
+"screen sizes. The theme is perfectly suited for business, consultant, "
+"finance, corporate, freelancer, agency, business promotion, electrician, "
+"industries, education, SEO, construction, fashion, online shop, health &amp; "
+"medical, Beauty &amp; spa salons, wedding, photography, gym, architecture, "
+"lawyer, restaurant, hotel, blog, magazine, travel agency and many other "
+"websites compatible. This theme supports the best Elementor page builder to "
+"create, edit, and update page designs as per the requirement. InnoPress also "
+"supports popular free and premium WordPress plugins such as Elementor, Yoast "
+"SEO, WooCommerce, Contact Form 7, Jetpack, Google Analytics, and much more. "
+"Check the demo of InnoPress Pro https://themearile.com/arilewp-pro-theme/."
+msgstr ""
+
+#: inc/customizer/innopress-customizer-options.php:36
+msgid "Only apply when transparent header option is enabled (260px*39px)."
+msgstr ""
+
+#: functions.php:290
+msgid "Search results for"
+msgstr ""
+
+#: functions.php:273
+msgid "Shop"
+msgstr ""
+
+#: functions.php:270
+msgid "Tag"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeArile"
+msgstr ""
+
+#: template-parts/site-navbar.php:12
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/customizer/innopress-customizer-options.php:35
+msgid "Transparent Header Logo"
+msgstr ""
